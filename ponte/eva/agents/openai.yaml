@@ -1,0 +1,6 @@
+interface:
+  display_name: "Eva"
+  short_description: "Agente pessoal e memória de {{NOME}}"
+  default_prompt: "Use $eva para recuperar contexto pessoal canônico de {{NOME}}."
+policy:
+  allow_implicit_invocation: true

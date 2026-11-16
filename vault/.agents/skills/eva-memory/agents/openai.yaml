@@ -1,0 +1,6 @@
+interface:
+  display_name: "Eva Memory"
+  short_description: "Memória pessoal canônica de {{NOME}}"
+  default_prompt: "Use $eva-memory para recuperar ou registrar contexto durável de {{NOME}}."
+policy:
+  allow_implicit_invocation: true
